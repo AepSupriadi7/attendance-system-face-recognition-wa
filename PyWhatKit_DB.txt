@@ -1,0 +1,35 @@
+Date: 10/5/2026
+Time: 12:52
+Phone Number: +6285811470900
+Message: Test notifikasi absensi berhasil
+--------------------
+Date: 10/5/2026
+Time: 12:54
+Phone Number: +6283812574412
+Message: Test notifikasi absensi berhasil
+--------------------
+Date: 10/5/2026
+Time: 12:55
+Phone Number: +6285811470900
+Message: Test notifikasi absensi berhasil
+--------------------
+Date: 10/5/2026
+Time: 13:10
+Phone Number: +6285811470900
+Message: [ SMART ATTENDANCE ]Nama : Aep SupriadiStatus : HADIRTanggal: 10-05-2026Jam : 13:09:54Terima kasih.
+--------------------
+Date: 10/5/2026
+Time: 13:19
+Phone Number: +6285811470900
+Message: [ SMART ATTENDANCE ]Nama : Aep SupriadiStatus : HADIRTanggal: 10-05-2026Jam : 13:18:52Terima kasih.
+--------------------
+Date: 10/5/2026
+Time: 13:19
+Phone Number: +6285811470900
+Message: [ SMART ATTENDANCE ]Nama : PrabowoStatus : HADIRTanggal: 10-05-2026Jam : 13:19:29Terima kasih.
+--------------------
+Date: 10/5/2026
+Time: 13:20
+Phone Number: +6285811470900
+Message: [ SMART ATTENDANCE ]Nama : LuthfiStatus : HADIRTanggal: 10-05-2026Jam : 13:20:38Terima kasih.
+--------------------
